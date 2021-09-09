@@ -118,14 +118,14 @@ How many rows and columns does the `avatar` data frame have?
 
 ## [Question 3] 
 
-In this question, you will consider another example of survivor bias. Music from earlier periods is often thought of as better than music now. To think of this as a general experiment, you could randomly select 10 songs on Spotify produced prior to Dec 31, 1999 and 10 songs on Spotify produced after Jan 1, 2000, and see which group has a higher average number of listens per song. 
+In this question, you will consider another example of survivor bias. Music from earlier periods is often thought of as better than music now. To think of this as a general experiment, you could randomly select 10 songs on Spotify produced prior to Dec 31, 1999 and randomly select 10 songs on Spotify produced after Jan 1, 2000, and see which group has a higher average number of listens per song. 
 
-### (a) Is this sample representative of all songs/music?
+### (a) Could this sample be non-representative of all songs/music?
 
 *Write your answer here*
 
 
-### (b) Do you expect that the average number of listens for older songs calculated from this sample will be close to the true value?
+### (b) Do you expect that if the average number of listens is greater for the sample of older songs compared to newer songs, does this 'prove' old music is better than new?
 
 *Write your answer here*
 

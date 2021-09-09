@@ -125,7 +125,7 @@ In this question, you will consider another example of survivor bias. Music from
 *Write your answer here*
 
 
-### (b) Do you expect that if the average number of listens is greater for the sample of older songs compared to newer songs, does this 'prove' old music is better than new?
+### (b) If the average number of listens is greater for the sample of older songs compared to newer songs, does this 'prove' old music is better than new?
 
 *Write your answer here*
 
